@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🙋 explained
-  - this 🙋 explained
-  - arrow function 🙋 explained
-  - async function 🖐️ used
-  - call 🖐️ used
-  - bind 🖐️ used
-  - apply 👂 heard
-  - instanceof 🖐️ used
-  - ...spread 🙋 explained
-  - ...rest 🙋 explained
-  - typeof 🙋 explained
-  - destructuring 🙋 explained
-  - generator 👂 heard
-  - iterator 🖐️ used
-  - async generator 🎓 known
-  - async iterator 🖐️ used
-  - chaining 🖐️ used
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - arrow function: 🙋 explained
+  - async function: 🙋 explained
+  - call: 🖐️ used
+  - bind: 🖐️ used
+  - apply: 🎓 known
+  - instanceof: 🖐️ used
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 🖐️ used
+  - async iterator: 🖐️ used
+  - chaining: 🖐️ used
   - optional chaining
-  - IIFE 🖐️ used
-  - global 🎓 known
-  - globalThis 🎓 known
-  - window 🖐️ used
-  - getters and setters 🖐️ used
-  - __proto__ 🎓 known
-  - prototype 🖐️ used
-  - equality operators 🙋 explained
-  - logical operators 🙋 explained
-  - bitwise operators 🖐️ used
-  - ternary operator 🙋 explained
-  - void 🙋 explained
-  - yield 🎓 known
-  - await 🎓 known
-  - template literal 🖐️ used
-  - strict mode 🖐️ used
-  - delete 🎓 known
-  - in 🙋 explained
-  - super 🖐️ used
-  - Symbol 🖐️ used
-  - Reflect 👂 heard
+  - IIFE: 🖐️ used
+  - global: 🎓 known
+  - globalThis: 🎓 known
+  - window: 🖐️ used
+  - getters and setters: 🙋 explained
+  - __proto__: 🎓 known
+  - prototype: 🖐️ used
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
+  - yield: 🖐️ used
+  - await: 🙋 explained
+  - template literal: 🖐️ used
+  - strict mode: 🖐️ used
+  - delete: 🎓 known
+  - in: 🙋 explained
+  - super: 🖐️ used
+  - Symbol: 🖐️ used
+  - Reflect: 👂 heard
 - Statements
-  - if 🙋 explained
-  - while 🙋 explained
-  - do..while 🙋 explained
-  - for 🙋 explained
-  - for..in 🙋 explained
-  - for..of 🙋 explained
-  - for await 🖐️ used
-  - throw 🖐️ used
-  - break 🙋 explained
-  - continue 🙋 explained
-  - import 🖐️ used
-  - export 🖐️ used
-  - label 👂 heard
-  - try..catch 🖐️ used
-  - switch 🙋 explained
-  - class 🖐️ used
-  - new Error 🖐️ used
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
+  - for await: 🖐️ used
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
+  - label: 👂 heard
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🙋 explained
   - with
 - Functions
-  - function declaration 🙋 explained
-  - function expression 🙋 explained
-  - return 🙋 explained
-  - default parameters 🙋 explained
-  - functional object 🎓 known
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🎓 known
 - Data structures
-  - Array 🙋 explained
-  - mixin 🖐️ used
-  - extend 🖐️ used
-  - typed arrays 🎓 known
-  - Map 🖐️ used
-  - Set 🖐️ used
-  - undefined 🖐️ used
-  - null 🖐️ used
-  - Proxy 👂 heard
-  - weak collections 🎓 known
-  - timers 🖐️ used
-  - EventEmitter 🚀 constructed
-  - RegExp 🎓 known
-  - Date 🖐️ used
-  - BigInt 🎓 known
+  - Array: 🙋 explained
+  - mixin: 🖐️ used
+  - extend: 🖐️ used
+  - typed arrays: 🎓 known
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
+  - Proxy: 🎓 known
+  - weak collections: 🎓 known
+  - timers: 🖐️ used
+  - EventEmitter: 🚀 constructed
+  - RegExp: 🖐️ used
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8 🎓 known
-  - Node.js 🎓 known
-  - npm 🖐️ used
-  - prettier 🙋 explained
-  - MDN 🙋 explained
+  - V8: 🎓 known
+  - Node.js: 🎓 known
+  - npm: 🖐️ used
+  - prettier: 🙋 explained
+  - MDN: 🙋 explained
