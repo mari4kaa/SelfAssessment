@@ -12,7 +12,7 @@
   - Generic programming: 👂 heard
   - Concurrent computing: 🎓 known
   - Asyncronous programming: 🎓 known
-  - Parallel programming: 🎓 known
+  - Parallel programming: 👂 heard
   - Reactive programming: 👂 heard
   - FRP (Functional-reactive): 👂 heard
   - Automata-based programming
@@ -21,46 +21,46 @@
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
 - OOP basics
-  - constructor: 🙋 explained
-  - new: 🙋 explained
-  - Static method: 🖐️ used
-  - Method: 🙋 explained
-  - Async method: 🙋 explained
-  - Getters, Setters: 🙋 explained
-  - Public fields: 🙋 explained
-  - Private fields: 🙋 explained
-  - Field declarations: 🙋 explained
-  - Inheritance: 🙋 explained
-  - Parent class: 🙋 explained
-  - Polymorphism: 🙋 explained
-  - Abstract class: 🖐️ used
-  - Interface: 🎓 known
-  - Encapsulation: 🖐️ used
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 👂 heard
+  - Method: 🖐️ used
+  - Async method: 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🎓 known
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 👂 heard
+  - Interface: 👂 heard
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form: 🖐️ used
-  - instance: 🙋 explained
-  - Introspection: 🎓 known
-  - Reflection: 🎓 known
+  - instance: 🖐️ used
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
 - Patterns
-  - Singleton: 🖐️ used
+  - Singleton: 👂 heard
   - Factory Method: 🖐️ used
-  - Abstract Factory: 🎓 known
-  - Adapter: 🎓 known
+  - Abstract Factory
+  - Adapter: 👂 heard
   - Observer: 🎓 known
-  - Strategy: 🖐️ used
-  - Facade: 🖐️ used
-  - Proxy: 🎓 known
-  - Chain of Responsibility: 🎓 known
-  - Command: 🎓 known
+  - Strategy
+  - Facade: 👂 heard
+  - Proxy: 👂 heard
+  - Chain of Responsibility
+  - Command
   - Iterator: 🖐️ used
-  - State: 🎓 known
+  - State: 👂 heard
   - Bridge
   - Builder
   - Prototype: 🖐️ used
   - Composite: 🎓 known
   - Decorator: 🎓 known
   - Flyweight
-  - Mediator: 🖐️ used
+  - Mediator: 👂 heard
   - Memento
-  - Template Method: 🎓 known
+  - Template Method: 👂 heard
   - Visitor
