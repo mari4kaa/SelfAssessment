@@ -8,50 +8,50 @@
   - scalar: 🙋 explained
   - literal: 🙋 explained
   - expression: 🙋 explained
-  - heap: 🎓 known
+  - heap: 🙋 explained
   - function: 🙋 explained
   - procedure: 🙋 explained
   - method: 🙋 explained
-  - class: 🖐️ used
-  - prototype: 🖐️ used
-  - event: 🎓 known
+  - class: 🙋 explained
+  - prototype: 🙋 explained
+  - event: 🙋 explained
   - type: 🙋 explained
   - primitive types: 🙋 explained
-  - reference types: 👂 heard
+  - reference types: 🙋 explained
   - flag: 🙋 explained
   - lexical scope: 🙋 explained
-  - code block: 🖐️ used
-  - conditions: 🎓 known
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
   - loops: 🙋 explained
   - assignment: 🙋 explained
-  - regular expression: 🎓 known
+  - regular expression: 🖐️ used
   - interface: 🎓 known
-  - contract: 🖐️ used
-  - module: 🖐️ used
-  - call stack: 🎓 known
+  - contract: 🙋 explained
+  - module: 🙋 explained
+  - call stack: 🙋 explained
 - Functions
-  - signature: 🎓 known
+  - signature: 🙋 explained
   - argument: 🙋 explained
   - parameter: 🙋 explained
-  - pure function: 🎓 known
+  - pure function: 🙋 explained
   - lambda expression: 🙋 explained
   - side effects: 🎓 known
-  - closure: 🖐️ used
+  - closure: 🙋 explained
   - partial application: 🖐️ used
-  - curry: 🎓 known
+  - curry: 🖐️ used
   - higher order: 🖐️ used
-  - recursion: 🖐️ used
-  - callback: 🖐️ used
-  - listener: 🎓 known
-  - compose: 🖐️ used
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
+  - listener: 🙋 explained
+  - compose: 🙋 explained
   - pipe: 🖐️ used
-  - memoize: 🎓 known
+  - memoize: 🖐️ used
   - wrapper: 🖐️ used
   - functor: 🎓 known
   - monad: 🎓 known
-  - monoid: 👂 heard
-  - generator: 👂 heard
-  - coroutine: 👂 heard
+  - monoid: 🎓 known
+  - generator: 🖐️ used
+  - coroutine: 🎓 known
 - Data structures
   - array: 🙋 explained
   - structure: 🖐️ used
@@ -59,8 +59,8 @@
   - enum: 🖐️ used
   - instance: 🙋 explained
   - object: 🙋 explained
-  - class: 🖐️ used
-  - collection: 🖐️ used
+  - class: 🙋 explained
+  - collection: 🙋 explained
   - set: 🙋 explained
   - hash table: 🚀 constructed
   - linked list: 🚀 constructed
@@ -73,34 +73,34 @@
   - tree: 🚀 constructed
   - graph: 🚀 constructed
   - iterator: 🖐️ used
-  - mutable state: 🎓 known
-  - immutable state: 🎓 known
-  - serialization: 🎓 known
-  - string parsing: 🖐️ used
+  - mutable state: 🙋 explained
+  - immutable state: 🙋 explained
+  - serialization: 🖐️ used
+  - string parsing: 🙋 explained
 - Process & style
   - compiler: 🎓 known
   - transpiler: 👂 heard
-  - linter: 👂 heard
+  - linter: 🖐️ used
   - polyfill
   - debugger: 🖐️ used
   - garbage collection: 🎓 known
-  - refactoring: 🖐️ used
-  - code review: 🖐️ used
-  - antipatterns: 🎓 known
-  - paradigm: 🎓 known
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
+  - antipatterns: 🙋 explained
+  - paradigm: 🖐️ used
   - algorithm: 🙋 explained
   - magic numbers: 🙋 explained
   - hardcode: 🙋 explained
   - complexity: 🙋 explained
   - decomposition: 🙋 explained
   - spaghetti: 🙋 explained
-  - silver bullet: 👂 heard
-  - not invented here: 🎓 known
+  - silver bullet: 🎓 known
+  - not invented here: 🙋 explained
   - dead code: 🙋 explained
   - unreachable code: 🙋 explained
   - duplicate code: 🙋 explained
-  - exception: 🎓 known
-  - return early: 🖐️ used
-  - unittest: 👂 heard
+  - exception: 🙋 explained
+  - return early: 🙋 explained
+  - unittest: 🎓 known
   - git: 🖐️ used
   - github: 🖐️ used
