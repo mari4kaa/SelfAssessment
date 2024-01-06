@@ -4,18 +4,18 @@
   - Object: 🙋 explained
   - this: 🙋 explained
   - arrow function: 🙋 explained
-  - async function: 🙋 explained
+  - async function: 🖐️ used
   - call: 🖐️ used
   - bind: 🖐️ used
-  - apply: 🎓 known
+  - apply: 👂 heard
   - instanceof: 🖐️ used
   - ...spread: 🙋 explained
   - ...rest: 🙋 explained
   - typeof: 🙋 explained
   - destructuring: 🙋 explained
-  - generator: 🖐️ used
+  - generator: 👂 heard
   - iterator: 🖐️ used
-  - async generator: 🖐️ used
+  - async generator: 🎓 known
   - async iterator: 🖐️ used
   - chaining: 🖐️ used
   - optional chaining
@@ -23,7 +23,7 @@
   - global: 🎓 known
   - globalThis: 🎓 known
   - window: 🖐️ used
-  - getters and setters: 🙋 explained
+  - getters and setters: 🖐️ used
   - __proto__: 🎓 known
   - prototype: 🖐️ used
   - equality operators: 🙋 explained
@@ -31,8 +31,8 @@
   - bitwise operators: 🖐️ used
   - ternary operator: 🙋 explained
   - void: 🙋 explained
-  - yield: 🖐️ used
-  - await: 🙋 explained
+  - yield: 🎓 known
+  - await: 🎓 known
   - template literal: 🖐️ used
   - strict mode: 🖐️ used
   - delete: 🎓 known
@@ -48,16 +48,16 @@
   - for..in: 🙋 explained
   - for..of: 🙋 explained
   - for await: 🖐️ used
-  - throw: 🙋 explained
+  - throw: 🖐️ used
   - break: 🙋 explained
   - continue: 🙋 explained
-  - import: 🙋 explained
-  - export: 🙋 explained
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label: 👂 heard
-  - try..catch: 🙋 explained
+  - try..catch: 🖐️ used
   - switch: 🙋 explained
-  - class: 🙋 explained
-  - new Error: 🙋 explained
+  - class: 🖐️ used
+  - new Error: 🖐️ used
   - with
 - Functions
   - function declaration: 🙋 explained
@@ -70,17 +70,17 @@
   - mixin: 🖐️ used
   - extend: 🖐️ used
   - typed arrays: 🎓 known
-  - Map: 🙋 explained
-  - Set: 🙋 explained
-  - undefined: 🙋 explained
-  - null: 🙋 explained
-  - Proxy: 🎓 known
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
+  - Proxy: 👂 heard
   - weak collections: 🎓 known
   - timers: 🖐️ used
   - EventEmitter: 🚀 constructed
-  - RegExp: 🖐️ used
+  - RegExp: 🎓 known
   - Date: 🖐️ used
-  - BigInt: 🖐️ used
+  - BigInt: 🎓 known
 - Infrastructure
   - V8: 🎓 known
   - Node.js: 🎓 known
