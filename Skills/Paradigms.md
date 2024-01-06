@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🖐️ used
-  - Imperative programming 🖐️ used
-  - Structured programming 🖐️ used
-  - Non-structured programming 👂 heard
-  - Functional programming 🖐️ used
-  - Prototype-based programming 🖐️ used
-  - Object-oriented programming 🖐️ used
-  - Object-based programming 🎓 known
-  - Generic programming 👂 heard
-  - Concurrent computing 🎓 known
-  - Asyncronous programming 🎓 known
-  - Parallel programming 👂 heard
-  - Reactive programming 👂 heard
-  - FRP (Functional-reactive) 👂 heard
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🖐️ used
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🎓 known
+  - Generic programming: 👂 heard
+  - Concurrent computing: 🎓 known
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
+  - FRP (Functional-reactive): 👂 heard
   - Automata-based programming
-  - Domain-specific languages 👂 heard
-  - Multi-paradigm programming 🖐️ used
-  - Metaprogramming 👂 heard
-  - Actor model 👂 heard
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 🖐️ used
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
 - OOP basics
-  - constructor 🖐️ used
-  - new 🖐️ used
-  - Static method 👂 heard
-  - Method 🖐️ used
-  - Async method 🎓 known
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🎓 known
-  - Field declarations 🖐️ used
-  - Inheritance 🖐️ used
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 👂 heard
-  - Interface 👂 heard
-  - Encapsulation 🎓 known
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 👂 heard
+  - Method: 🖐️ used
+  - Async method: 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🎓 known
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 👂 heard
+  - Interface: 👂 heard
+  - Encapsulation: 🎓 known
   - Hidden class
-  - Object form 🖐️ used
-  - instance 🖐️ used
-  - Introspection 👂 heard
-  - Reflection 👂 heard
+  - Object form: 🖐️ used
+  - instance: 🖐️ used
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method 🖐️ used
+  - Singleton: 👂 heard
+  - Factory Method: 🖐️ used
   - Abstract Factory
-  - Adapter 👂 heard
-  - Observer 🎓 known
+  - Adapter: 👂 heard
+  - Observer: 🎓 known
   - Strategy
-  - Facade 👂 heard
-  - Proxy 👂 heard
+  - Facade: 👂 heard
+  - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator 🖐️ used
-  - State 👂 heard
+  - Iterator: 🖐️ used
+  - State: 👂 heard
   - Bridge
   - Builder
-  - Prototype 🖐️ used
-  - Composite 🎓 known
-  - Decorator 🎓 known
+  - Prototype: 🖐️ used
+  - Composite: 🎓 known
+  - Decorator: 🎓 known
   - Flyweight
-  - Mediator 👂 heard
+  - Mediator: 👂 heard
   - Memento
-  - Template Method 👂 heard
+  - Template Method: 👂 heard
   - Visitor
